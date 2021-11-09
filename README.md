@@ -9,3 +9,6 @@ PyCrypt is also capable to encrypt any type of file
 because its using the bytes of the file to encrypt so
 it does not matter what type of file is given
 PyCrypt will handle it.
+
+# Usage:
+python3 pycrypt.py
